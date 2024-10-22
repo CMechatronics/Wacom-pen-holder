@@ -12,6 +12,7 @@ If this is your case: screw in and unscrew to increase the play between the two 
 Due to manufacturing tolerances, it might not work in your case. If so, you could scale the part "Soporte wacom parte 2" up by a few millimeters.
 
 1.Download the base “parte inferior”.
+
 2.Download the top part "parte superior"
 
 Features:
