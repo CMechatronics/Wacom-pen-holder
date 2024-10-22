@@ -23,4 +23,6 @@ Holes for spare parts for 10 replacement tips.
 Weight and height specified for stand stability.
 ISO thread M45 x1.5 (1.5 is the thread pitch) with tolerance for adjustment tightening.
 
+My 3Dcults Link: https://cults3d.com/es/modelo-3d/herramientas/soporte-lapiz-wacom-intuos
+
 ![image](https://github.com/user-attachments/assets/fb92781f-21d7-47fd-af87-b1666db8a01c)
